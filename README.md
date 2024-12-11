@@ -19,3 +19,5 @@ To set up the project locally, follow these steps:
    ```bash
    git clone git@github.com:haroon423/Conversational-AI-Chatbot.git
    cd Conversational-AI-Chatbot
+   pip install -r requirements.txt
+
