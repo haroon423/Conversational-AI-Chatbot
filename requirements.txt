@@ -1,8 +1,4 @@
-streamlit==1.25.0
-torch==2.0.1
-transformers==4.34.0
-sentencepiece==0.1.99
-requests==2.31.0
-numpy==1.24.4
-scipy==1.11.3
+streamlit
+transformers
+torch
 pytest
