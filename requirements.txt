@@ -5,5 +5,4 @@ sentencepiece==0.1.99
 requests==2.31.0
 numpy==1.24.4
 scipy==1.11.3
-unittest
 pytest
